@@ -280,14 +280,14 @@ Publish the website in the given URL.
 ![output](./static/img/contact.jpeg)
 
 ## CODE VALIDATION REPORT:
-![output](./static/img/validate1.jpg)
+![output](./static/img/validate1.png)
 
-![output](./static/img/validate2.jpg)
+![output](./static/img/validate2.png)
 
-![output](./static/img/validate3.jpg)
+![output](./static/img/validate3.png)
 
-![output](./static/img/validate4.jpg)
+![output](./static/img/validate4.png)
 
-![output](./static/img/validate5.jpg)
+![output](./static/img/validate5.png)
 ## RESULT:
 Thus a website is designed for the chip manufacturing company and is hosted in the URL http://dinesh.student.saveetha.in:8000/. HTML code is validated.
